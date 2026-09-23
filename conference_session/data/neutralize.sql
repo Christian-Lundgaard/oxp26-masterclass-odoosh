@@ -1,1 +1,1 @@
-UPDATE ir.config_parameter SET secret_key_to_the_city = 'Neutralized';
+UPDATE ir_config_parameter SET secret_key_to_the_city = 'Neutralized';
