@@ -1,6 +1,6 @@
 {
     'name': 'Conference Sessions',
-    'version': '19.0.1.0.0',
+    'version': '17.0.1.0.0',
     'summary': 'Track sessions for conferences and training events',
     'depends': ['base'],
     'data': [
